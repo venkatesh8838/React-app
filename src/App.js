@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> Welcome to FLM Class - Amplfiy-React Deployment
+          Edit <code>src/App.js</code> This is your 1st React App
         </p>
         <a
           className="App-link"
